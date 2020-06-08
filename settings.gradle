@@ -1,0 +1,4 @@
+rootProject.name='LoadApk'
+include ':app'
+include ':stander'
+include ':plugin_package'
