@@ -1,2 +1,2 @@
 # LoadApk
-插件化
+插件化（ProxyActivity）
